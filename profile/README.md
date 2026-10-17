@@ -8,10 +8,12 @@ I build the tools behind the work: pipelines that turn a brief into motion, scri
 
 | Repository | What it does |
 |---|---|
+| [edit-as-data](https://github.com/thejunglefruit/edit-as-data) | Write the edit as data, cut it to the beat, render it with ffmpeg and open it in Premiere (FCP7 XML / EDL) |
+| [lora-forge](https://github.com/thejunglefruit/lora-forge) | Dataset intake, validation and captioning for LoRA training, with a CLI and a React web app |
 | [type-specimen-finder](https://github.com/thejunglefruit/type-specimen-finder) | Picks typefaces by measuring the drawing of their letters and prints a PDF specimen book with licences |
-| [motion-checks](https://github.com/thejunglefruit/motion-checks) | Reviews web motion like a director: slideshow test, contact sheets, spec lint |
-| [copy-provenance](https://github.com/thejunglefruit/copy-provenance) | A one-page report of where every line of a creative piece comes from: AI, designer, brief or brand |
+| [hardened-node-backend](https://github.com/thejunglefruit/hardened-node-backend) | A zero-dependency hardening kit for Node APIs, with a battery of 24 attacks that proves it |
+| [verified-oss-library](https://github.com/thejunglefruit/verified-oss-library) | Install open-source tools only after checking the official SHA256, Defender and a malware-pattern scan |
 
-More on the way: Adobe automation, AI image pipelines and edit-as-data video tools.
+More on the way: Adobe automation and AI image pipelines.
 
 All code is free software under GPL-3.0-or-later.
