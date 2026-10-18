@@ -18,4 +18,4 @@ I build the tools behind the work: pipelines that turn a brief into motion, scri
 
 More on the way: Adobe automation and AI image pipelines.
 
-All code is free software under GPL-3.0-or-later.
+All code is free software under GPL-3.0-or-later, except comfyui-profile-calibrator and lora-forge, which are AGPL-3.0-or-later. Commercial licences are available on request.
