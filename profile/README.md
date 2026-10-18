@@ -12,6 +12,7 @@ I build the tools behind the work: pipelines that turn a brief into motion, scri
 | [lora-forge](https://github.com/thejunglefruit/lora-forge) | Dataset intake, validation and captioning for LoRA training, with a CLI and a React web app |
 | [type-specimen-finder](https://github.com/thejunglefruit/type-specimen-finder) | Picks typefaces by measuring the drawing of their letters and prints a PDF specimen book with licences |
 | [comfyui-production-nodes](https://github.com/thejunglefruit/comfyui-production-nodes) | Four ComfyUI nodes for generative production: prompt batches from CSV, a quality gate, .cube LUTs and a run manifest for provenance |
+| [comfyui-profile-calibrator](https://github.com/thejunglefruit/comfyui-profile-calibrator) | Repeatable ComfyUI runs: workflow templates, grid calibration with automatic scoring, held-out profile promotion and drift monitoring |
 | [hardened-node-backend](https://github.com/thejunglefruit/hardened-node-backend) | A zero-dependency hardening kit for Node APIs, with a battery of 24 attacks that proves it |
 | [verified-oss-library](https://github.com/thejunglefruit/verified-oss-library) | Install open-source tools only after checking the official SHA256, Defender and a malware-pattern scan |
 
